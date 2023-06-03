@@ -1,0 +1,47 @@
+#button{
+    border-color: #d5d5d5;
+    color: #fff;
+    background-color: #333;
+    box-shadow: 0 10px 10px -8px rgba(0,0,0,.78);
+    border: 2px solid #d5d5d5;
+    padding: 0.8em 2.1em;
+    font-size: 1em;
+    border-radius: 30px;
+    margin: 4px;
+}
+
+#button:hover{
+    background-color:#fbbf24;
+    color:black;
+    border: 2px solid black;
+}
+#heading{
+   
+    font-family: 'Courier New', Courier, monospace;
+    word-spacing: 0.5px;
+    letter-spacing: 0.5rem;
+    
+}
+#para{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: 1px;
+    line-height: 25px;
+}
+#footer{
+    font-family: 'Josefin Sans', sans-serif;
+}
+#tag1{
+    font-family: 'Roboto Mono', monospace;
+}
+#tag2{
+    font-family: 'Roboto Mono', monospace;
+}
+#tag3{
+    font-family: 'Roboto Mono', monospace;
+}
+#service{
+    font-family: 'Poppins', sans-serif;
+}
+#contact{
+    font-family: 'Poppins', sans-serif;
+}
